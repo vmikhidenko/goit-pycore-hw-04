@@ -1,4 +1,4 @@
-from extract_numbers import extract_numbers as total_salary
+from extract_numbers import extract_numbers as total_salary, path
 
-total, average = total_salary("exe1/name_and_salary.txt")
+total, average = total_salary(path)
 

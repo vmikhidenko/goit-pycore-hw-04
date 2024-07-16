@@ -27,7 +27,7 @@ def extract_numbers(path):
 
     return total, average
 
-path = "exe1/name_and_salary.txt"
+path = "/Users/volodymyrmikhidenko/Documents/HW04/goit-pycore-hw-04/exe1/name_and_salary.txt"
 total, average = extract_numbers(path)
 
 
